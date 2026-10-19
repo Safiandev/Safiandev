@@ -42,7 +42,7 @@ I build AI systems that do real work — intelligent agents, RAG assistants, and
 
 ### 🩸 Hemoglobe AI — Non-Invasive Anemia Detection
 Final Year Project · **Flutter + TensorFlow Lite (MobileNetV2, ~95% accuracy)**
-Detects anemia from an eyelid image — no blood draw needed. On-device inference, AI scan reports, PDF export, and AI doctor consultation.
+Detects anemia from an eyelid image — no blood draw needed. On-device inference, AI scan reports, PDF export, and symptom-based assessment.
 Built with a 3-person team at the University of Sialkot.
 → [`Safiandev/FinalYear_AnemiaApp`](https://github.com/Safiandev/FinalYear_AnemiaApp)
 
