@@ -68,5 +68,6 @@ Production n8n systems — lead qualification pipelines, RAG knowledge assistant
 ## 📫 Connect
 
 - 🌐 [devzink.com](https://devzink.com)
+- 💼 [linkedin.com/in/safianabid-ai](https://www.linkedin.com/in/safianabid-ai)
 - ✉️ safianabid78@gmail.com
 - 💻 [github.com/Safiandev](https://github.com/Safiandev)
