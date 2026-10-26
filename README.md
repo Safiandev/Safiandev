@@ -52,8 +52,9 @@ The live site for my agency — SEO-friendly static build, AI-automation and web
 → [`Safiandev/devzink-website`](https://github.com/Safiandev/devzink-website) · [devzink.com](https://devzink.com)
 
 ### 🤖 AI Automation Workflows
-Production n8n systems — lead qualification pipelines, RAG knowledge assistants, and business process automation.
-*(New automation projects land here as I ship them.)*
+Production n8n systems — lead qualification pipelines, RAG knowledge assistants, and business process automation. Sanitized workflow exports with setup guides.
+
+→ [`Safiandev/n8n-automation-workflows`](https://github.com/Safiandev/n8n-automation-workflows)
 
 ---
 
